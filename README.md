@@ -13,6 +13,7 @@ Design rules for evaluation board:
 - GIT repo address placement required
 - All signals on external layers
 
+На русском
 
 - Разрабатываем под установку на макетную плату (так что бы вставала посередине)
 - Стандарт маркировки (Наименование, краткий description, дата в формате Q1.25)
