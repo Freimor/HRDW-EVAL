@@ -1,4 +1,4 @@
-24899466624674298
+24903055285909854
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -99561,6 +99561,13 @@ SW_SMD_tridome_6MM
 4
 2
 _buttons
+SW_SMD_tridome_6mm_mod
+
+
+0
+2
+2
+_buttons
 SW_SPST_SKQG_WithStem
 ALPS 5.2mm Square Low-profile Type (Surface Mount) SKQG Series, With stem, http://www.alps.com/prod/info/E/HTML/Tact/SurfaceMount/SKQG/SKQGAFE010.html
 SPST Button Switch
@@ -99587,6 +99594,13 @@ PASSIVE_SMD_MLT-8530
 
 0
 4
+2
+_buzzers
+PASSIVE_SMD_Murata_PKLCS1212E2000-R1
+
+
+0
+2
 2
 _chips
 ATMega32u4_HYBRID
